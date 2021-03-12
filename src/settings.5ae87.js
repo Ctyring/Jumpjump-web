@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","block","hero"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/Game.fire",orientation:"",jsList:["assets/script/Bmob.min.d48c9.js"],bundleVers:{internal:"69b9a",main:"53873"}};
